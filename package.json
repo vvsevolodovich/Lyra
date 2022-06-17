@@ -2,7 +2,7 @@
     "name": "lyra",
     "description": "A premium publication theme for Ghost.",
     "demo": "https://lyra.ghost.io",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
@@ -42,7 +42,9 @@
         "url": "https://github.com/TryGhost/Starter.git"
     },
     "bugs": "https://github.com/TryGhost/Starter/issues",
-    "contributors": "https://github.com/TryGhost/Starter/graphs/contributors",
+    "contributors": [
+        "vvsevolodovich"
+    ],
     "devDependencies": {
         "@tryghost/release-utils": "0.8.0",
         "autoprefixer": "10.4.7",
